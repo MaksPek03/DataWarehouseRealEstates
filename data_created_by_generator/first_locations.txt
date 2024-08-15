@@ -1,0 +1,300 @@
+1, Katowice, Bogucice, Forest Edge
+2, Lodz, Widzew, Vivaldi Estate
+3, Warsaw, Bielany, Cedar Crest
+4, Krakow, Kazimierz, Amber Gardens
+5, Lodz, Polesie, Sunrise Springs
+6, Katowice, Brynow, Whitewater Pointe
+7, Szczecin, Prawobrzeze, Rosewood Park
+8, Gdynia, Chwarzno-Wiczlino, Oakwood Oaks
+9, Bydgoszcz, Blonie, Brookside Manor
+10, Katowice, Zawodzie, Whispering Pines
+11, Poznan, Stare Miasto, Rosewood Park
+12, Krakow, Podgorze, Summit Heights
+13, Lodz, Gorna, Whispering Pines
+14, Warsaw, Bielany, Forest Edge
+15, Warsaw, Ursynow, Oakwood Oaks
+16, Wroclaw, Krzyki, Vivaldi Estate
+17, Szczecin, Prawobrzeze, Lakeview Gardens
+18, Poznan, Nowe Miasto, Lakeview Gardens
+19, Bydgoszcz, Blonie, Whitewater Pointe
+20, Katowice, Brynow, Oakwood Oaks
+21, Wroclaw, Fabryczna, Golden Gate Apartments
+22, Gdynia, Wzgorze sw. Maksymiliana, Valley View
+23, Warsaw, Wola, Bayside Manor
+24, Szczecin, Zachod, Green Meadows
+25, Krakow, Nowa Huta, Sunset Heights
+26, Gdansk, Glowny, Maplewood Terrace
+27, Katowice, Zawodzie, Lakeside Living
+28, Szczecin, Prawobrzeze, Marina Bay
+29, Gdynia, Chwarzno-Wiczlino, Garden Grove
+30, Gdansk, Glowny, Sunset Heights
+31, Katowice, Zawodzie, Sunset Heights
+32, Krakow, Kazimierz, Highland Hills
+33, Wroclaw, Fabryczna, Hillcrest Heights
+34, Katowice, Bogucice, Green Meadows
+35, Bydgoszcz, Stare Miasto, Sunrise Springs
+36, Gdansk, Glowny, Lakeview Gardens
+37, Warsaw, Praga, Aspen Meadows
+38, Wroclaw, Krzyki, Maplewood Terrace
+39, Lodz, Baluty, Golden Gate Apartments
+40, Krakow, Old Town, Green Meadows
+41, Gdansk, Wrzeszcz, Brookside Manor
+42, Wroclaw, Psie Pole, Canyon Creek
+43, Poznan, Stare Miasto, Vivaldi Estate
+44, Gdansk, Oliwa, Peachtree Place
+45, Warsaw, Mokotow, Sunset Heights
+46, Warsaw, Praga, Aspen Meadows
+47, Bydgoszcz, Szwederowo, Highland Hills
+48, Bydgoszcz, Fordon, Hilltop Haven
+49, Bydgoszcz, Wzgorze Wolnosci, Forest Edge
+50, Wroclaw, Krzyki, Golden Gate Apartments
+51, Wroclaw, Stare Miasto, Ocean Breeze
+52, Wroclaw, Fabryczna, Aspen Meadows
+53, Lodz, Baluty, Brookside Manor
+54, Lodz, srodmiescie, Amber Gardens
+55, Warsaw, Mokotow, Meadowbrook Meadows
+56, Gdansk, Glowny, Whispering Pines
+57, Gdynia, Wzgorze sw. Maksymiliana, Marina Bay
+58, Gdynia, Wzgorze sw. Maksymiliana, Pinecrest Ridge
+59, Szczecin, Zachod, Whitewater Pointe
+60, Bydgoszcz, Blonie, Sunnydale Villas
+61, Krakow, Podgorze, Misty Ridge
+62, Gdansk, Sopot, Whispering Pines
+63, Szczecin, srodmiescie, Vivaldi Estate
+64, Gdansk, Glowny, Green Meadows
+65, Wroclaw, Krzyki, Forest Edge
+66, Warsaw, Praga, Marina Bay
+67, Warsaw, Mokotow, Golden Gate Apartments
+68, Gdansk, Wrzeszcz, Garden Grove
+69, Poznan, Wilda, Willow Creek
+70, Warsaw, Praga, Highland Hills
+71, Gdansk, Wrzeszcz, Hilltop Haven
+72, Szczecin, swieta, Pinecrest Ridge
+73, Katowice, Zawodzie, Canyon Creek
+74, Lodz, srodmiescie, Forest Edge
+75, Wroclaw, Fabryczna, Palm Paradise
+76, Lodz, Baluty, Vivaldi Estate
+77, Katowice, Dab, Forest Edge
+78, Gdynia, Orlowo, Valley View
+79, Katowice, Bogucice, Ocean Breeze
+80, Poznan, Grunwald, Cedar Crest
+81, Wroclaw, Psie Pole, Sunrise Springs
+82, Warsaw, Praga, Green Meadows
+83, Lodz, Widzew, Palm Paradise
+84, Szczecin, srodmiescie, Bayside Manor
+85, Bydgoszcz, Blonie, Lakeview Gardens
+86, Warsaw, Wola, Rosewood Park
+87, Poznan, Nowe Miasto, Lakeview Gardens
+88, Bydgoszcz, Wzgorze Wolnosci, Bayside Manor
+89, Wroclaw, Biskupin, Hillcrest Heights
+90, Gdynia, Wzgorze sw. Maksymiliana, Valley View
+91, Wroclaw, Fabryczna, Willow Creek
+92, Poznan, Nowe Miasto, Misty Ridge
+93, Katowice, Zawodzie, Cedar Crest
+94, Gdynia, Wzgorze sw. Maksymiliana, Sunnydale Villas
+95, Lodz, Gorna, Cedar Crest
+96, Bydgoszcz, Fordon, Willow Creek
+97, Poznan, Wilda, Marina Bay
+98, Warsaw, Bielany, Sunset Heights
+99, Gdynia, Chwarzno-Wiczlino, Whitewater Pointe
+100, Warsaw, Mokotow, Valley View
+101, Katowice, Brynow, Sunnydale Villas
+102, Lodz, Baluty, Rosewood Park
+103, Wroclaw, Biskupin, Peachtree Place
+104, Wroclaw, Stare Miasto, Valley View
+105, Katowice, Dab, Serenity Springs
+106, Szczecin, Prawobrzeze, Sunnydale Villas
+107, Wroclaw, Psie Pole, Garden Grove
+108, Poznan, Nowe Miasto, Meadowbrook Meadows
+109, Bydgoszcz, Blonie, Garden Grove
+110, Poznan, Wilda, Ocean Breeze
+111, Warsaw, Ursynow, Whitewater Pointe
+112, Lodz, srodmiescie, Lakeside Living
+113, Wroclaw, Stare Miasto, Rosewood Park
+114, Bydgoszcz, Blonie, Bayside Manor
+115, Gdynia, Wzgorze sw. Maksymiliana, Riverside Village
+116, Poznan, Grunwald, Vivaldi Estate
+117, Katowice, srodmiescie, Silver Springs
+118, Poznan, Wilda, Cedar Crest
+119, Krakow, Bronowice, Summit Heights
+120, Gdansk, Oliwa, Willow Creek
+121, Warsaw, Bielany, Brookside Manor
+122, Gdynia, Redlowo, Canyon Creek
+123, Lodz, Widzew, Valley View
+124, Poznan, Grunwald, Garden Grove
+125, Poznan, Stare Miasto, Canyon Creek
+126, Krakow, Podgorze, Maplewood Terrace
+127, Poznan, Stare Miasto, Green Meadows
+128, Wroclaw, Biskupin, Forest Edge
+129, Szczecin, Polnoc, Willow Creek
+130, Gdynia, Chwarzno-Wiczlino, Hillcrest Heights
+131, Gdansk, Wrzeszcz, Riverfront Residences
+132, Poznan, Jezyce, Canyon Creek
+133, Bydgoszcz, Wzgorze Wolnosci, Cedar Crest
+134, Katowice, Bogucice, Riverside Village
+135, Bydgoszcz, Fordon, Whispering Pines
+136, Wroclaw, Stare Miasto, Vivaldi Estate
+137, Warsaw, Mokotow, Forest Edge
+138, Katowice, Bogucice, Serenity Springs
+139, Bydgoszcz, Wzgorze Wolnosci, Silver Springs
+140, Szczecin, Polnoc, Amber Gardens
+141, Szczecin, srodmiescie, Lakeview Gardens
+142, Krakow, Bronowice, Sunrise Springs
+143, Krakow, Nowa Huta, Cedar Crest
+144, Gdansk, Glowny, Bayside Manor
+145, Lodz, Widzew, Riverfront Residences
+146, Lodz, Polesie, Sunrise Springs
+147, Warsaw, Praga, Amber Gardens
+148, Bydgoszcz, Blonie, Lakeview Gardens
+149, Katowice, Zawodzie, Lakeside Living
+150, Lodz, Widzew, Riverside Village
+151, Warsaw, Praga, Sunrise Springs
+152, Gdynia, Chwarzno-Wiczlino, Brookside Manor
+153, Wroclaw, Biskupin, Canyon Creek
+154, Warsaw, Ursynow, Silver Springs
+155, Bydgoszcz, Fordon, Oakwood Oaks
+156, Warsaw, Wola, Garden Grove
+157, Katowice, srodmiescie, Oakwood Oaks
+158, Bydgoszcz, Szwederowo, Brookside Manor
+159, Wroclaw, Stare Miasto, Amber Gardens
+160, Gdynia, Redlowo, Harbor View Estates
+161, Lodz, srodmiescie, Summit Heights
+162, Warsaw, Bielany, Hilltop Haven
+163, Poznan, Wilda, Hillcrest Heights
+164, Krakow, Old Town, Riverside Village
+165, Gdansk, Oliwa, Aspen Meadows
+166, Szczecin, swieta, Misty Ridge
+167, Gdynia, Witomino, Misty Ridge
+168, Wroclaw, Stare Miasto, Harbor View Estates
+169, Gdynia, Wzgorze sw. Maksymiliana, Green Meadows
+170, Poznan, Grunwald, Peachtree Place
+171, Warsaw, Mokotow, Serenity Springs
+172, Wroclaw, Stare Miasto, Forest Edge
+173, Wroclaw, Biskupin, Riverside Village
+174, Katowice, srodmiescie, Cobblestone Cove
+175, Warsaw, Wola, Lakeside Living
+176, Warsaw, Wola, Whispering Pines
+177, Gdynia, Wzgorze sw. Maksymiliana, Summit Heights
+178, Szczecin, Polnoc, Lakeside Living
+179, Szczecin, srodmiescie, Palm Paradise
+180, Krakow, Old Town, Serenity Springs
+181, Bydgoszcz, Szwederowo, Aspen Meadows
+182, Gdynia, Orlowo, Garden Grove
+183, Bydgoszcz, Stare Miasto, Meadowbrook Meadows
+184, Szczecin, Polnoc, Forest Edge
+185, Poznan, Jezyce, Riverside Village
+186, Wroclaw, Psie Pole, Hilltop Haven
+187, Katowice, Brynow, Summit Heights
+188, Bydgoszcz, Szwederowo, Harbor View Estates
+189, Wroclaw, Fabryczna, Misty Ridge
+190, Gdynia, Redlowo, Brookside Manor
+191, Gdynia, Wzgorze sw. Maksymiliana, Cedar Crest
+192, Poznan, Stare Miasto, Cedar Crest
+193, Wroclaw, Krzyki, Riverfront Residences
+194, Wroclaw, Krzyki, Sunrise Springs
+195, Poznan, Nowe Miasto, Cedar Crest
+196, Wroclaw, Krzyki, Canyon Creek
+197, Gdansk, Wrzeszcz, Green Meadows
+198, Bydgoszcz, Szwederowo, Whispering Pines
+199, Poznan, Grunwald, Brookside Manor
+200, Poznan, Wilda, Harbor View Estates
+201, Katowice, Dab, Sunset Heights
+202, Gdynia, Redlowo, Sunset Heights
+203, Wroclaw, Psie Pole, Whispering Pines
+204, Katowice, Bogucice, Hilltop Haven
+205, Lodz, Polesie, Summit Heights
+206, Krakow, Bronowice, Sunrise Springs
+207, Gdansk, Glowny, Harbor View Estates
+208, Krakow, Bronowice, Serenity Springs
+209, Bydgoszcz, Blonie, Canyon Creek
+210, Gdansk, Wrzeszcz, Peachtree Place
+211, Katowice, Dab, Oakwood Oaks
+212, Krakow, Podgorze, Sunnydale Villas
+213, Krakow, Podgorze, Valley View
+214, Wroclaw, Fabryczna, Green Meadows
+215, Gdynia, Redlowo, Summit Heights
+216, Gdynia, Witomino, Lakeside Living
+217, Katowice, Zawodzie, Pinecrest Ridge
+218, Szczecin, srodmiescie, Bayside Manor
+219, Katowice, srodmiescie, Whispering Pines
+220, Gdansk, Orunia, Palm Paradise
+221, Gdynia, Orlowo, Willow Creek
+222, Gdynia, Witomino, Cobblestone Cove
+223, Katowice, Dab, Peachtree Place
+224, Warsaw, Praga, Sunnydale Villas
+225, Katowice, srodmiescie, Marina Bay
+226, Szczecin, srodmiescie, Peachtree Place
+227, Gdansk, Glowny, Marina Bay
+228, Wroclaw, Fabryczna, Sunnydale Villas
+229, Szczecin, Polnoc, Lakeview Gardens
+230, Lodz, Polesie, Palm Paradise
+231, Katowice, Bogucice, Aspen Meadows
+232, Krakow, Podgorze, Cedar Crest
+233, Wroclaw, Stare Miasto, Highland Hills
+234, Krakow, Kazimierz, Amber Gardens
+235, Bydgoszcz, Stare Miasto, Willow Creek
+236, Krakow, Bronowice, Lakeside Living
+237, Warsaw, Mokotow, Palm Paradise
+238, Wroclaw, Stare Miasto, Willow Creek
+239, Gdynia, Orlowo, Meadowbrook Meadows
+240, Gdansk, Orunia, Sunset Heights
+241, Warsaw, Bielany, Misty Ridge
+242, Lodz, Baluty, Palm Paradise
+243, Katowice, Dab, Lakeview Gardens
+244, Krakow, Bronowice, Oakwood Oaks
+245, Bydgoszcz, Wzgorze Wolnosci, Bayside Manor
+246, Wroclaw, Psie Pole, Amber Gardens
+247, Poznan, Stare Miasto, Harbor View Estates
+248, Krakow, Bronowice, Sunset Heights
+249, Warsaw, Mokotow, Riverfront Residences
+250, Lodz, Baluty, Brookside Manor
+251, Krakow, Old Town, Hillcrest Heights
+252, Katowice, Bogucice, Oakwood Oaks
+253, Warsaw, Ursynow, Riverside Village
+254, Krakow, Podgorze, Sunrise Springs
+255, Poznan, Jezyce, Misty Ridge
+256, Szczecin, Zachod, Valley View
+257, Katowice, Dab, Hillcrest Heights
+258, Krakow, Bronowice, Misty Ridge
+259, Krakow, Old Town, Cobblestone Cove
+260, Bydgoszcz, Stare Miasto, Whispering Pines
+261, Lodz, Baluty, Golden Gate Apartments
+262, Bydgoszcz, Stare Miasto, Valley View
+263, Lodz, Baluty, Sunnydale Villas
+264, Poznan, Grunwald, Sunnydale Villas
+265, Wroclaw, Krzyki, Willow Creek
+266, Lodz, Widzew, Whitewater Pointe
+267, Gdynia, Orlowo, Rosewood Park
+268, Bydgoszcz, Stare Miasto, Misty Ridge
+269, Krakow, Nowa Huta, Forest Edge
+270, Warsaw, Mokotow, Willow Creek
+271, Warsaw, Ursynow, Riverfront Residences
+272, Warsaw, Praga, Whitewater Pointe
+273, Lodz, Widzew, Rosewood Park
+274, Katowice, Dab, Whispering Pines
+275, Gdynia, Wzgorze sw. Maksymiliana, Serenity Springs
+276, Gdynia, Witomino, Ocean Breeze
+277, Krakow, Podgorze, Sunnydale Villas
+278, Gdansk, Oliwa, Lakeside Living
+279, Gdynia, Witomino, Cedar Crest
+280, Katowice, srodmiescie, Riverside Village
+281, Gdansk, Sopot, Aspen Meadows
+282, Krakow, Podgorze, Riverside Village
+283, Poznan, Jezyce, Cobblestone Cove
+284, Krakow, Podgorze, Peachtree Place
+285, Szczecin, swieta, Palm Paradise
+286, Gdynia, Redlowo, Meadowbrook Meadows
+287, Katowice, Brynow, Cobblestone Cove
+288, Krakow, Podgorze, Willow Creek
+289, Gdansk, Glowny, Meadowbrook Meadows
+290, Gdynia, Chwarzno-Wiczlino, Misty Ridge
+291, Bydgoszcz, Wzgorze Wolnosci, Cedar Crest
+292, Bydgoszcz, Fordon, Oakwood Oaks
+293, Lodz, srodmiescie, Golden Gate Apartments
+294, Warsaw, Praga, Sunset Heights
+295, Poznan, Nowe Miasto, Lakeside Living
+296, Krakow, Kazimierz, Green Meadows
+297, Lodz, Gorna, Summit Heights
+298, Bydgoszcz, Szwederowo, Silver Springs
+299, Warsaw, Wola, Aspen Meadows
+300, Gdynia, Wzgorze sw. Maksymiliana, Sunrise Springs
