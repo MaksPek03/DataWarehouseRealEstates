@@ -1,0 +1,13 @@
+DROP table DimRenovation;
+DROP table DimJunk;
+DROP table DimDATE;
+DROP table DimWorker;
+DROP table DimLocation;
+DROP table DimRealEstate;
+DROP table DimRenovationTeam;
+DROP table dbo.JunkTemp
+Drop table dbo.Location
+Drop table dbo.RealEstate
+Drop table dbo.RenovationTeamTemp
+Drop table dbo.RenovationTemp
+Drop table dbo.Worker
